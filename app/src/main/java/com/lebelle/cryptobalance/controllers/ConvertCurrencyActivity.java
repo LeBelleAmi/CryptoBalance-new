@@ -37,6 +37,7 @@ public class ConvertCurrencyActivity extends AppCompatActivity {
         Toolbar toolbar1 = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar1);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setTitle("Crypto Converter");
 
         //get items from the adapter intent and set in views
         Bundle data = getIntent().getBundleExtra("items");

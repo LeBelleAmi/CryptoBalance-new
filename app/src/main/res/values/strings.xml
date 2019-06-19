@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Crypto Balance</string>
+    <string name="activity_name3">Select a Currency</string>
+
+
+    <!--currency name-->
+    <string name="nigerian_naira">Nigerian Naira</string>
+    <string name="us_dollar">US Dollar</string>
+    <string name="british_pounds">British Pound</string>
+    <string name="schengen_euro">European Euro</string>
+    <string name="australian_dollars">Australian Dollar</string>
+    <string name="canadian_dollars">Canadian Dollar</string>
+    <string name="ethopian_birr">Ethopian Birr</string>
+    <string name="isreali_new_shekel">Isreali New Shekel</string>
+    <string name="polish_zloty">Polish Zloty</string>
+    <string name="japanese_yen">Japanese Yen</string>
+    <string name="renminbi_yuan">Renminbi Yuan</string>
+    <string name="danish_krone">Danish Krone</string>
+    <string name="indian_rupee">Indian Rupee</string>
+    <string name="korea_won">South Korean Won</string>
+    <string name="swiss_franc">Swiss Franc</string>
+    <string name="rand">South African Rand</string>
+    <string name="russia_ruble">Russian Ruble</string>
+    <string name="saudi_riyal">Saudi Riyal</string>
+    <string name="swedish_krona">Swedish Krona</string>
+    <string name="kenya_shilling">Kenyan Shilling</string>
+    <string name="turkey_lira">Turkish Lira</string>
+    <string name="cameroon_cfa">CFA Franc BEAC</string>
+    <string name="argentina_peso">Argentinian Peso</string>
+    <string name="brazilian_real">Brazilian Real</string>
+    <string name="arab_dirham">Arab Emirates Dirham</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="etherium">Ethereum</string>
+
+
+    <!--symbol name-->
+    <string name="ngn">NGN</string>
+    <string name="usd">USD</string>
+    <string name="gdp">GBP</string>
+    <string name="eur">EUR</string>
+    <string name="aud">AUD</string>
+    <string name="cad">CAD</string>
+    <string name="jpy">JPY</string>
+    <string name="cny">CNY</string>
+    <string name="dkk">DKK</string>
+    <string name="inr">INR</string>
+    <string name="krw">KRW</string>
+    <string name="chf">CHF</string>
+    <string name="zar">ZAR</string>
+    <string name="rub">RUB</string>
+    <string name="sar">SAR</string>
+    <string name="sek">SEK</string>
+    <string name="kes">KES</string>
+    <string name="lira">TRY</string>
+    <string name="xaf">XAF</string>
+    <string name="ars">ARS</string>
+    <string name="brl">BRL</string>
+    <string name="aed">AED</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+    <string name="ils">ILS</string>
+    <string name="etb">ETB</string>
+    <string name="pln">PLN</string>
+    <string name="unknown">Unknown</string>
+
+    <!--currency unicodes-->
+    <string name="zero">_</string>
+    <string name="arab_code">&#x62f;&#x2e;&#x625;</string>
+    <string name="argentina_code">\u20b1</string>
+    <string name="australia_code">&#x41;\u0024</string>
+    <string name="brazilian_code">\u211d&#x24;</string>
+    <string name="pound_code">\u20a4</string>
+    <string name="cameroon_code">CFA</string>
+    <string name="canadian_code">CA\u0024</string>
+    <string name="danish_code">Kr</string>
+    <string name="etherium_code">&#x39e;</string>
+    <string name="euro_code">\u20ac</string>
+    <string name="rupee_code">\u20b9</string>
+    <string name="japanese_code">\u00a5</string>
+    <string name="kenya_code">Ksw</string>
+    <string name="korea_code">\u20a9</string>
+    <string name="naira_code">\u20a6</string>
+    <string name="rand_code">\u211d</string>
+    <string name="yuan_code">\u00a5</string>
+    <string name="ruble_code">\u20bd</string>
+    <string name="riyal_code">\ufdfc</string>
+    <string name="krona_code">Kr</string>
+    <string name="franc_code">&#x43;&#x48;&#x20a3;</string>
+    <string name="lira_code">\u20ba</string>
+    <string name="dollar_code">\u0024</string>
+    <string name="bitcoin_code">\u0243</string>
+    <string name="isreali_code">\u20aa</string>
+    <string name="ethopian_code">&#4709;&#4653;</string>
+    <string name="polish_code">z&#x142;</string>
+
+
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="amount">Currency Amount</string>
+    <string name="convert">Convert</string>
+    <string name="activity_name4">Ethereum</string>
+    <string name="currency_board">Currency Board</string>
+    <string name="delete">DELETE</string>
+    <string name="select_spinner_text">Select a Currency</string>
+
+
+    <string name="choose_a_currency">Please choose a Currency</string>
+    <string name="empty_state">I"'"m here to help you exchange Cryptocurrency. Please click on the add button below</string>
+    <string name="app_info">Bitcoin and Ethereum Converter</string>
+    <string name="app_power">Powered by Andela, Google and Cryptocompare</string>
+    <string name="menu_item1">Dashboard</string>
+    <string name="menu_item2">About</string>
+    <string name="menu_item6">Cryptocompare</string>
+    <string name="menu_item4">Help</string>
+    <string name="menu_item3">Feedback</string>
+    <string name="menu_item7">License</string>
+    <string name="menu_item5">Others</string>
+    <string name="menu_item8">Refresh</string>
+    <string name="menu_item9">Search</string>
+    <string name="menu_item10">Share</string>
+    <string name="drawer_open">Navigation</string>
+    <string name="search_hint">Search Crypto Balance</string>
+    <string name="ok">"OK"</string>
+    <string name="about_app">This is a Crypto Currency Converter Android Application designed for research purposes for the Andela Android Intermediate Program. Property of Omawumi Eyekpimi© 2017.\nVersion 1.0</string>
+    <string name="app_name2">Currency Converter</string>
+    <string name="menu_item11">Andela ALC</string>
+    <string name="help_app">The Crypto Currency Converter Android Application user interface: \n1. Click on the ADD button. \n2. Choose a currency of interest and click save. \n3. Click on each currency to view the exchange rate, convert BTC or ETH to that currency and share currency details. \n4. Swipe left to delete a currency</string>
+    <string name="license_app">The Source Code used within is at any developers disposal, provided the initial developer [Omawumi Eyekpimi] is contacted. Redistribution and use of source library must retain their copyright notice. Project idea belongs to Andela, design and execution belongs to Omawumi Eyekpimi, External codes, api and library are properties of AndroidHive, Mikheal Lopez, and Cryptocompare.</string>
+
+</resources>

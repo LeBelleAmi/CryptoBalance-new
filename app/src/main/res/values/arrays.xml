@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--currency options for dropdown spinner-->
+    <string-array name="array_currency_options">
+        <item>@string/arab_dirham</item>
+        <item>@string/argentina_peso</item>
+        <item>@string/australian_dollars</item>
+        <item>@string/bitcoin</item>
+        <item>@string/brazilian_real</item>
+        <item>@string/british_pounds</item>
+        <item>@string/cameroon_cfa</item>
+        <item>@string/canadian_dollars</item>
+        <item>@string/danish_krone</item>
+        <item>@string/etherium</item>
+        <item>@string/schengen_euro</item>
+        <item>@string/indian_rupee</item>
+        <item>@string/isreali_new_shekel</item>
+        <item>@string/japanese_yen</item>
+        <item>@string/kenya_shilling</item>
+        <item>@string/korea_won</item>
+        <item>@string/nigerian_naira</item>
+        <item>@string/polish_zloty</item>
+        <item>@string/rand</item>
+        <item>@string/renminbi_yuan</item>
+        <item>@string/russia_ruble</item>
+        <item>@string/saudi_riyal</item>
+        <item>@string/swiss_franc</item>
+        <item>@string/turkey_lira</item>
+        <item>@string/us_dollar</item>
+    </string-array>
+
+    <!--symbol options for dropdown spinner-->
+    <string-array name="array_symbol_options">
+        <item>@string/aed</item>
+        <item>@string/ars</item>
+        <item>@string/aud</item>
+        <item>@string/btc</item>
+        <item>@string/brl</item>
+        <item>@string/gdp</item>
+        <item>@string/xaf</item>
+        <item>@string/cad</item>
+        <item>@string/dkk</item>
+        <item>@string/eth</item>
+        <item>@string/eur</item>
+        <item>@string/inr</item>
+        <item>@string/ils</item>
+        <item>@string/jpy</item>
+        <item>@string/kes</item>
+        <item>@string/krw</item>
+        <item>@string/ngn</item>
+        <item>@string/pln</item>
+        <item>@string/zar</item>
+        <item>@string/cny</item>
+        <item>@string/rub</item>
+        <item>@string/sar</item>
+        <item>@string/chf</item>
+        <item>@string/lira</item>
+        <item>@string/usd</item>
+    </string-array>
+
+    <string-array name="array_currency_unicodes">
+        <item>@string/arab_code</item>
+        <item>@string/argentina_code</item>
+        <item>@string/australia_code</item>
+        <item>@string/bitcoin_code</item>
+        <item>@string/brazilian_code</item>
+        <item>@string/pound_code</item>
+        <item>@string/cameroon_code</item>
+        <item>@string/canadian_code</item>
+        <item>@string/danish_code</item>
+        <item>@string/etherium_code</item>
+        <item>@string/euro_code</item>
+        <item>@string/rupee_code</item>
+        <item>@string/isreali_code</item>
+        <item>@string/japanese_code</item>
+        <item>@string/kenya_code</item>
+        <item>@string/korea_code</item>
+        <item>@string/naira_code</item>
+        <item>@string/polish_code</item>
+        <item>@string/rand_code</item>
+        <item>@string/yuan_code</item>
+        <item>@string/ruble_code</item>
+        <item>@string/riyal_code</item>
+        <item>@string/franc_code</item>
+        <item>@string/lira_code</item>
+        <item>@string/dollar_code</item>
+    </string-array>
+
+    <!--image options for dropdown spinner-->
+    <integer-array name="array_flag_options">
+        <item>@drawable/united_arab_emirates</item>
+        <item>@drawable/argentina</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/coin_btc</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/england</item>
+        <item>@drawable/cameroon</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/denmark</item>
+        <item>@drawable/coin_eth</item>
+        <item>@drawable/european_union</item>
+        <item>@drawable/india</item>
+        <item>@drawable/isreal</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/kenya</item>
+        <item>@drawable/south_korea</item>
+        <item>@drawable/nigeria</item>
+        <item>@drawable/poland</item>
+        <item>@drawable/south_africa</item>
+        <item>@drawable/china</item>
+        <item>@drawable/russia</item>
+        <item>@drawable/saudi_arabia</item>
+        <item>@drawable/switzerland</item>
+        <item>@drawable/turkey</item>
+        <item>@drawable/united_states</item>
+    </integer-array>
+
+    <!--coin image options for dropdown spinner-->
+    <integer-array name="array_coin_img">
+        <item>@drawable/coin_btc</item>
+        <item>@drawable/coin_eth</item>
+    </integer-array>
+
+
+    <!--symbol options for actionbar dropdown spinner-->
+    <string-array name="array_action_bar">
+        <item>@string/bitcoin</item>
+        <item>@string/etherium</item>
+    </string-array>
+
+    <!--symbol options for coins-->
+    <string-array name="array_coins">
+        <item>@string/btc</item>
+        <item>@string/eth</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_home"
+            android:title="@string/menu_item1" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_action_about"
+            android:title="@string/menu_item2" />
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_action_feedback"
+            android:title="@string/menu_item3" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_action_help"
+            android:title="@string/menu_item4" />
+    </group>
+
+    <item android:title="@string/menu_item5">
+        <menu>
+            <item
+                android:id="@+id/andela_intent"
+                android:title="@string/menu_item11"
+                android:icon="@drawable/ic_action_andela"
+                />
+            <item
+                android:id="@+id/cryptocompare_intent"
+                android:title="@string/menu_item6"
+                android:icon="@drawable/cryptocompare1"
+                />
+            <item
+                android:id="@+id/license"
+                android:title="@string/menu_item7"
+                android:icon="@drawable/ic_action_license"
+                />
+        </menu>
+    </item>
+</menu>

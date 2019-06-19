@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b79891</color>
+    <color name="colorPrimaryDark">#94716b</color>
+    <color name="colorAccent">#eacda3</color>
+    <color name="list_selected">#FFDDDD</color>
+    <color name="list_unselected">#FFFFFF</color>
+    <color name="list_long_pressed">#DDDDFF</color>
+    <color name="list_divider_color">#ECEFF1</color>
+    <color name="ripple_color">#222</color>
+    <color name="color_input_hint">#FFF</color>
+    <color name="color_text_highlight">#fafafa</color>
+    <color name="color_text">#FFF</color>
+    <color name="bg_row_background">#1abc9c</color>
+
+</resources>
